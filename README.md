@@ -2,10 +2,10 @@
 
 ## Screenshots
 
-![App Screenshot](./Assets/IMG-SITE01.png)
+![App Screenshot](./assets/IMG-SITE01.png)
 <br/>
 
-![App Screenshot](./Assets/IMG-SITE02.png)
+![App Screenshot](./assets/IMG-SITE02.png)
 
 ## Stack utilizada
 
@@ -16,7 +16,7 @@
 
 Para fazer o deploy desse projeto acesse
 
-  https://velvety-entremet-b572a2.netlify.app
+  https://guileless-eclair-b89b79.netlify.app/
 
 
 
